@@ -16,7 +16,7 @@ Protects cloud resources from unauthorized access, cyber threats, and data loss.
 ### **Real-World Example:**
 Just like banks secure money with vaults, AWS secures cloud data with encryption and access policies.
 
-### **Analogy:**
+### **Similar Analogy:**
 AWS Security is like a home security system—it locks doors (firewalls), requires keys (credentials), and has security cameras (monitoring tools).
 
 ---

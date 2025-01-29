@@ -13,7 +13,7 @@
 - **Real-World Example**:  
   Like a USB drive for your computer that keeps data even when the computer is off.
 
-- **Analogy**:  
+- **Similar Analogy**:  
   A bookshelf where books stay even if you rearrange the room.
 
 ---

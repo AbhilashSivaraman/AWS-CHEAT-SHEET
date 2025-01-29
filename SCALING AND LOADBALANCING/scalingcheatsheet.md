@@ -13,7 +13,7 @@
 - **Real-World Example**:  
   Adding more cash registers in a store during a sale to handle more customers.
 
-- **Analogy**:  
+- **Similar Analogy**:  
   Like hiring more workers to serve more customers in a restaurant.
 
 ---

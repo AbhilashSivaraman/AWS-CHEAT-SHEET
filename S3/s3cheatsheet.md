@@ -11,7 +11,7 @@ Used to store and manage data such as images, videos, backups, and logs in the c
 ### **Real-World Example:**
 Similar to how a Dropbox or Google Drive folder holds files, an S3 bucket holds data in AWS.
 
-### **Analogy:**
+### **Similar Analogy:**
 An S3 bucket is like a digital locker where you can keep different types of files and access them from anywhere.
 
 ---

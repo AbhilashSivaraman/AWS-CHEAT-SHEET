@@ -11,7 +11,7 @@ Provides scalable and flexible compute capacity for various workloads like web h
 ### **Real-World Example:**
 A startup launches an e-commerce website and needs on-demand servers to handle traffic spikes.
 
-### **Analogy:**
+### **Similar Analogy:**
 EC2 is like renting a hotel room instead of buying a house; you use it as needed without long-term commitment.
 
 ---
