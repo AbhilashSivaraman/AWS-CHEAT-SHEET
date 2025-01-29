@@ -84,5 +84,20 @@ Instead of fetching a book from a faraway library, you get it from a nearby bran
 
 ---
 
+**Bucket Policy Syntax**
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": "s3:GetObject",
+      "Resource": "arn:aws:s3:::your-bucket-name/*"
+    }
+  ]
+}
+
+```
+
 This cheat sheet provides essential details for AWS **S3, Versioning, Replication, Static Website Hosting, and CloudFront CDN**.
 
